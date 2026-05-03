@@ -174,14 +174,14 @@ export const portfolio = [
   },
   {
     id: 3,
-    title: "PCKS Dashboard — Informes de Operaciones",
+    title: "ViveMedellín — Backend",
     description:
-      "Dashboard web de informes y seguimiento operacional desarrollado para Package Squad.",
+      "Backend de una aplicación para descubrir y explorar planes y actividades en Medellín.",
     image: "/images/project3.jpg",
     details:
-      "Dashboard desarrollado para visualizar y hacer seguimiento a los informes operacionales de Package Squad. Centraliza métricas clave y permite consultar el estado de las operaciones de forma rápida desde el navegador.",
-    link: "https://github.com/yiyilopez/pcks-dashboard",
-    tags: ["Dashboard", "Informes", "Operaciones", "React"],
+      "Desarrollo del backend de ViveMedellín, una aplicación que conecta a las personas con planes, eventos y actividades de la ciudad. Incluye la gestión de datos, endpoints y la lógica del servidor.",
+    link: "https://github.com/yiyilopez/ViveMedellin-Backend",
+    tags: ["Backend", "API", "Node.js", "Medellín"],
   },
 ];
 
