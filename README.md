@@ -70,4 +70,4 @@ npm run start
 
 ## Despliegue
 
-El proyecto está desplegado en Vercel: [yiyi-lopez-portafolio.vercel.app](https://yiyi-lopez-portafolio.vercel.app)
+El proyecto está desplegado en Vercel: [yiyi-lopez.vercel.app](https://yiyi-lopez.vercel.app)
