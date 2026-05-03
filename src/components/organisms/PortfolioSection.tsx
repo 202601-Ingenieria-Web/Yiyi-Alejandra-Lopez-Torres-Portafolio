@@ -8,7 +8,7 @@ export default function PortfolioSection() {
       <div className="px-8">
         <SectionTitle
           title="Portafolio"
-          subtitle="Proyectos que construí o lideré — sistemas de datos, dashboards y automatización."
+          subtitle="Aquí algunos proyectos en los que he puesto en práctica lo que voy aprendiendo."
         />
       </div>
 
