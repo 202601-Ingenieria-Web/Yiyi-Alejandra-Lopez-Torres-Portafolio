@@ -9,7 +9,6 @@ import {
   FaLinkedin,
   FaGithub,
   FaBriefcase,
-  FaChartBar,
   FaLanguage,
 } from "react-icons/fa";
 import { personalInfo } from "@/data/portfolioData";
@@ -17,7 +16,6 @@ import { personalInfo } from "@/data/portfolioData";
 // Estadísticas que aparecen en la tarjeta del diálogo
 const stats = [
   { icon: <FaBriefcase />, value: "4+", label: "Años de exp." },
-  { icon: <FaChartBar />, value: "3", label: "Proyectos" },
   { icon: <FaLanguage />, value: "C1", label: "Inglés" },
 ];
 
